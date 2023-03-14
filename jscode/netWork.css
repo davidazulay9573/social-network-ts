@@ -1,0 +1,31 @@
+body{
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+#register{
+  display: inline-block;
+  margin: 10px;
+  padding: 30px;
+  background-color: #eee;
+  border-radius: 20px;
+  box-shadow: 0 0 10px 0 #00000080;
+  text-align: center;
+}
+input {
+  height: 25px;
+  width: 200px;
+
+  border-radius: 7px;
+  color: black;
+}
+button {
+  background-color: rgba(245, 245, 245, 0.334);
+  height: 30px;
+  width: 100px;
+  border-radius: 6px;
+  color:rgba(0, 0, 0, 0.886);
+}
+button:hover {
+  color:blue;
+  background-color: rgba(102, 255, 0, 0.064);
+}
